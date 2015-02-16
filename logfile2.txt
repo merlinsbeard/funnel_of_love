@@ -1,0 +1,124 @@
+starting speak
+volume: 85%   repeat: off   random: off   single: off   consume: off
+volume: 85%   repeat: off   random: off   single: off   consume: off
+loading: home
+SQURL feat. Madeline Follin - Funnel of Love
+[playing] #1/2   0:00/3:40 (0%)
+volume: 85%   repeat: off   random: off   single: off   consume: off
+Egypt 'bombs IS targets in Libya'
+Egypt says it has bombed Islamic State targets in Libya, hours after video emerged showing the apparent beheadings of 21 Egyptian Christians.
+Men charged over Copenhagen attacks
+Two men are accused with helping the gunman who murdered two people in separate attacks in Copenhagen, Danish police say.
+Monitors press to enter Ukraine town
+Observers from the OSCE are to try again to reach a besieged town in east Ukraine, after saying they were denied access by pro-Russian rebels.
+Italians rescue 2,000 migrants
+The Italian coastguard has rescued more than 2,000 migrants in a major operation off the Libyan coast, officials say.
+0
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Good afternoon ,bj its Monday February sixteenth, 04 59 PM" -O /home/pi/speak/01.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Weather conditions for Manila today are Sky is Clear with a current temperature of 27.8 with a low" -O /home/pi/speak/02.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=of 19.7 and a high of 24.7" -O /home/pi/speak/03.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=The value of 1 bitcoin is: 234.05" -O /home/pi/speak/04.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=And now, The latest stories from the World section of the BBC News" -O /home/pi/speak/05.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Egypt bombs IS targets in Libya" -O /home/pi/speak/06.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Egypt says it has bombed Islamic State targets in Libya, hours after video emerged showing the" -O /home/pi/speak/07.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=apparent beheadings of 21 Egyptian Christians." -O /home/pi/speak/08.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Men charged over Copenhagen attacks" -O /home/pi/speak/09.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Two men are accused with helping the gunman who murdered two people in separate attacks in" -O /home/pi/speak/10.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Copenhagen, Danish police say." -O /home/pi/speak/11.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Monitors press to enter Ukraine town" -O /home/pi/speak/12.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Observers from the OSCE are to try again to reach a besieged town in east Ukraine, after saying they" -O /home/pi/speak/13.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=were denied access by pro-Russian rebels." -O /home/pi/speak/14.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Italians rescue 2,000 migrants" -O /home/pi/speak/15.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=The Italian coastguard has rescued more than 2,000 migrants in a major operation off the Libyan" -O /home/pi/speak/16.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=coast, officials say." -O /home/pi/speak/17.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Thats all for now" -O /home/pi/speak/18.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Have a nice day." -O /home/pi/speak/19.mp3 
+
+0
+0
+cleaning up now
+0
+Playing some jazz
+0
+0
+0
+starting speak
+volume: 85%   repeat: off   random: off   single: off   consume: off
+volume: 85%   repeat: off   random: off   single: off   consume: off
+loading: home
+SQURL feat. Madeline Follin - Funnel of Love
+[playing] #1/2   0:00/3:40 (0%)
+volume: 85%   repeat: off   random: off   single: off   consume: off
+Egypt 'bombs IS targets in Libya'
+Egypt says it has bombed Islamic State targets in Libya, hours after video emerged showing the apparent beheadings of 21 Egyptian Christians.
+Men charged over Copenhagen attacks
+Two men are accused with helping the gunman who murdered two people in separate attacks in Copenhagen, Danish police say.
+Monitors press to enter Ukraine town
+Observers from the OSCE are to try again to reach a besieged town in east Ukraine, after saying they were denied access by pro-Russian rebels.
+Italians rescue 2,000 migrants
+The Italian coastguard has rescued more than 2,000 migrants in a major operation off the Libyan coast, officials say.
+0
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Good evening ,bj its Monday February sixteenth, 05 05 PM" -O /home/pi/speak/01.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Weather conditions for Manila today are Sky is Clear with a current temperature of 27.8 with a low" -O /home/pi/speak/02.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=of 19.7 and a high of 24.7" -O /home/pi/speak/03.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=The value of 1 bitcoin is: 234.28" -O /home/pi/speak/04.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=And now, The latest stories from the World section of the BBC News" -O /home/pi/speak/05.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Egypt bombs IS targets in Libya" -O /home/pi/speak/06.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Egypt says it has bombed Islamic State targets in Libya, hours after video emerged showing the" -O /home/pi/speak/07.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=apparent beheadings of 21 Egyptian Christians." -O /home/pi/speak/08.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Men charged over Copenhagen attacks" -O /home/pi/speak/09.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Two men are accused with helping the gunman who murdered two people in separate attacks in" -O /home/pi/speak/10.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Copenhagen, Danish police say." -O /home/pi/speak/11.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Monitors press to enter Ukraine town" -O /home/pi/speak/12.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Observers from the OSCE are to try again to reach a besieged town in east Ukraine, after saying they" -O /home/pi/speak/13.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=were denied access by pro-Russian rebels." -O /home/pi/speak/14.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Italians rescue 2,000 migrants" -O /home/pi/speak/15.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=The Italian coastguard has rescued more than 2,000 migrants in a major operation off the Libyan" -O /home/pi/speak/16.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=coast, officials say." -O /home/pi/speak/17.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Thats all for now" -O /home/pi/speak/18.mp3 
+
+wget -q -U Mozilla "http://translate.google.com/translate_tts?tl=en&q=Have a nice day." -O /home/pi/speak/19.mp3 
+
+0
+0
+cleaning up now
+0
+Playing some jazz
+0
+0
+0
